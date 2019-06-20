@@ -39,7 +39,7 @@ namespace HW_6_UserValidation
                         i.DateTime = DateTime.Now;
                         break;
                     }
-                    else Console.WriteLine($"\nYour entered incorrect password for {this.Name} user.\n"); break;
+                    else Console.WriteLine($"\nYou entered incorrect password for {this.Name} user.\n"); break;
 
                 }
                 
@@ -47,7 +47,7 @@ namespace HW_6_UserValidation
 
             if(!IsPresent)
             {
-                Console.WriteLine($"\nYour entered new '{this.Name}' user and he will be added to user list.\n");
+                Console.WriteLine($"\nYou entered new '{this.Name}' user and he will be added to user list.\n");
                 UsersList.Add(new User { Name = this.Name, Password = this.Password, DateTime = DateTime.Now });
             }
             
