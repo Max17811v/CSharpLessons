@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,14 +12,14 @@ namespace HW_6_UserValidation
         {
             while (true)
             {
-                User user = new User();
-
+                var user = new User();
+                var container = new UserContainer();
+                var validator = new Validator();
                 Console.Write("Enter user Name or Email:");
                 user.Name = Console.ReadLine();
                 Console.Write("\nEnter Password:");
                 user.Password = Console.ReadLine();
-
-                user.ValidateUser();
+                validator.ValidateUser(user);
             }
         }
     }
