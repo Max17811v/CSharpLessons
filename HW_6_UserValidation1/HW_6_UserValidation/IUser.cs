@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,8 +10,6 @@ namespace HW_6_UserValidation
     {
         string Name { get; set; }
         string Password { get; set; }
-        string Email { get; set; }
-
         string GetFullInfo();
     }
 }
