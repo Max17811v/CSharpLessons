@@ -1,0 +1,7 @@
+D:\Projects\!MyShit\HW_6_UserValidation\HW_6_UserValidation\bin\Debug\HW_6_UserValidation.exe.config
+D:\Projects\!MyShit\HW_6_UserValidation\HW_6_UserValidation\bin\Debug\HW_6_UserValidation.exe
+D:\Projects\!MyShit\HW_6_UserValidation\HW_6_UserValidation\bin\Debug\HW_6_UserValidation.pdb
+D:\Projects\!MyShit\HW_6_UserValidation\HW_6_UserValidation\obj\Debug\HW_6_UserValidation.csprojAssemblyReference.cache
+D:\Projects\!MyShit\HW_6_UserValidation\HW_6_UserValidation\obj\Debug\HW_6_UserValidation.csproj.CoreCompileInputs.cache
+D:\Projects\!MyShit\HW_6_UserValidation\HW_6_UserValidation\obj\Debug\HW_6_UserValidation.exe
+D:\Projects\!MyShit\HW_6_UserValidation\HW_6_UserValidation\obj\Debug\HW_6_UserValidation.pdb
