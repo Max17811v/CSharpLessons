@@ -1,0 +1,7 @@
+D:\Projects\!MyShit\Printer\Printer\bin\Debug\Printer.exe.config
+D:\Projects\!MyShit\Printer\Printer\bin\Debug\Printer.exe
+D:\Projects\!MyShit\Printer\Printer\bin\Debug\Printer.pdb
+D:\Projects\!MyShit\Printer\Printer\obj\Debug\Printer.csprojAssemblyReference.cache
+D:\Projects\!MyShit\Printer\Printer\obj\Debug\Printer.csproj.CoreCompileInputs.cache
+D:\Projects\!MyShit\Printer\Printer\obj\Debug\Printer.exe
+D:\Projects\!MyShit\Printer\Printer\obj\Debug\Printer.pdb
