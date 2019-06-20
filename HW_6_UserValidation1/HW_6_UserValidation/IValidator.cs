@@ -8,6 +8,6 @@ namespace HW_6_UserValidation
 {
     interface IValidator
     {
-        void ValidateUser();
+        void ValidateUser(IUser user);
     }
 }
