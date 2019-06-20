@@ -1,0 +1,11 @@
+C:\Users\Max\source\repos\HW_5\HW_5\bin\Debug\netcoreapp2.1\HW_5.deps.json
+C:\Users\Max\source\repos\HW_5\HW_5\bin\Debug\netcoreapp2.1\HW_5.runtimeconfig.json
+C:\Users\Max\source\repos\HW_5\HW_5\bin\Debug\netcoreapp2.1\HW_5.runtimeconfig.dev.json
+C:\Users\Max\source\repos\HW_5\HW_5\bin\Debug\netcoreapp2.1\HW_5.dll
+C:\Users\Max\source\repos\HW_5\HW_5\bin\Debug\netcoreapp2.1\HW_5.pdb
+C:\Users\Max\source\repos\HW_5\HW_5\obj\Debug\netcoreapp2.1\HW_5.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\HW_5\HW_5\obj\Debug\netcoreapp2.1\HW_5.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\HW_5\HW_5\obj\Debug\netcoreapp2.1\HW_5.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\HW_5\HW_5\obj\Debug\netcoreapp2.1\HW_5.AssemblyInfo.cs
+C:\Users\Max\source\repos\HW_5\HW_5\obj\Debug\netcoreapp2.1\HW_5.dll
+C:\Users\Max\source\repos\HW_5\HW_5\obj\Debug\netcoreapp2.1\HW_5.pdb
