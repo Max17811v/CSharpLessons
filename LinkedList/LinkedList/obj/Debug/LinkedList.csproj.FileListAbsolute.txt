@@ -1,0 +1,7 @@
+C:\Users\maksym.boltychev\source\repos\LinkedList\LinkedList\bin\Debug\ConsoleApp1.exe.config
+C:\Users\maksym.boltychev\source\repos\LinkedList\LinkedList\bin\Debug\ConsoleApp1.exe
+C:\Users\maksym.boltychev\source\repos\LinkedList\LinkedList\bin\Debug\ConsoleApp1.pdb
+C:\Users\maksym.boltychev\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Users\maksym.boltychev\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\maksym.boltychev\source\repos\LinkedList\LinkedList\obj\Debug\ConsoleApp1.exe
+C:\Users\maksym.boltychev\source\repos\LinkedList\LinkedList\obj\Debug\ConsoleApp1.pdb
