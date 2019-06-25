@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +11,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            DoublyLinkedList<string> linkedList = new DoublyLinkedList<string>();
+            var linkedList = new DoublyLinkedList<string>();
             linkedList.Add("Bob");
             linkedList.Add("Bill");
             linkedList.Add("Tom");
