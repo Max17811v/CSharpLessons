@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Collections;
 using System.Linq;
@@ -15,7 +15,7 @@ namespace ConsoleApp1
 
         public void Add(T data)
         {
-            DoublyNode<T> node = new DoublyNode<T>(data);
+            var node = new DoublyNode<T>(data);
 
             if (head == null)
                 head = node;
@@ -30,7 +30,7 @@ namespace ConsoleApp1
 
         public bool Remove(T data)
         {
-            DoublyNode<T> current = head;
+           var current = head;
 
             while (current != null)
             {
@@ -68,7 +68,7 @@ namespace ConsoleApp1
 
         public bool Contains(T data)
         {
-            DoublyNode<T> current = head;
+            var current = head;
             while (current != null)
             {
                 if (current.Data.Equals(data))
@@ -80,7 +80,7 @@ namespace ConsoleApp1
 
         public DoublyNode<T>[] ToArray()
         {
-            DoublyNode<T>[] Arr = new DoublyNode<T>[this.Count];
+            var Arr = new DoublyNode<T>[this.Count];
             DoublyNode<T> current = head;
             var i = 0;
             while (current != null)
@@ -94,8 +94,8 @@ namespace ConsoleApp1
 
         public void AddFirst(T data)
         {
-            DoublyNode<T> node = new DoublyNode<T>(data);
-            DoublyNode<T> temp = head;
+            var node = new DoublyNode<T>(data);
+            var temp = head;
             node.Next = temp;
             head = node;
             if (count == 0)
@@ -121,7 +121,7 @@ namespace ConsoleApp1
 
         IEnumerator<T> IEnumerable<T>.GetEnumerator()
         {
-            DoublyNode<T> current = head;
+            var current = head;
             while (current != null)
             {
                 yield return current.Data;
