@@ -12,18 +12,19 @@ namespace MobileCalling
         {
             var mobileOperator = new MobileOperator();
             var max = new MobileAccount("Max", 09311);
-            mobileOperator.AddToBase(max);
             var crab =new MobileAccount("Ievgen", 05011);
-            mobileOperator.AddToBase(crab);
             var zloi = new MobileAccount("Yaroslav", 06711);
-            mobileOperator.AddToBase(zloi);
             var dima = new MobileAccount("Dima", 06722);
-            mobileOperator.AddToBase(dima);
             var artem = new MobileAccount("Artem", 06733);
-            mobileOperator.AddToBase(artem);
             var andrey = new MobileAccount("Andrey", 09322);
-            mobileOperator.AddToBase(andrey);
             var vital = new MobileAccount("Vitaly", 05022);
+            
+            mobileOperator.AddToBase(max);
+            mobileOperator.AddToBase(crab);
+            mobileOperator.AddToBase(zloi);
+            mobileOperator.AddToBase(dima);
+            mobileOperator.AddToBase(artem);
+            mobileOperator.AddToBase(andrey);
             mobileOperator.AddToBase(vital);
 
             max.Call(crab, "let me write off your homework))");

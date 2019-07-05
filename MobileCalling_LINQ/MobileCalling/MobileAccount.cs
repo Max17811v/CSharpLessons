@@ -23,11 +23,13 @@ namespace MobileCalling
         {
             if(AdressBook.Count(i => i.Item2 == toAcc.Number) == 0)
                 AdressBook.Add((toAcc.Name, toAcc.Number));
-            Connecting(toAcc, this, false, message);
+            Connecting?.Invoke(toAcc, this, false, message);
         }
         public void SMS(MobileAccount toAcc, string message)
         {
-            Connecting(toAcc, this, true, message);
+            if (AdressBook.Count(i => i.Item2 == toAcc.Number) == 0)
+                AdressBook.Add((toAcc.Name, toAcc.Number));
+            Connecting?.Invoke(toAcc, this, true, message);
         }
         public void ShowOnScreen(string message)
         {
